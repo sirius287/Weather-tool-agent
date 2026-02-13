@@ -3,3 +3,6 @@ __pycache__/
 .env
 .env.*
 
+git add .gitignore
+git commit -m "Add gitignore"
+git push
